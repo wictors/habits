@@ -4,3 +4,4 @@
 2. Need to do get project out the door.  Keep your eye, mind on the goal, Don't waste large periods of time on small bugs.
 3. Write simple code, simple solution. Understandable and consistency for others. Don't over-engineer. 
 4. To have uninterrupted hours without distructions. Just sit down and conding, focus on problem all the time. 
+5. Always be learning. Get out of comfort zone.
