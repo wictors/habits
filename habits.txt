@@ -6,3 +6,4 @@
 4. To have uninterrupted hours without distructions. Just sit down and conding, focus on problem all the time. 
 5. Always be learning. Get out of comfort zone.
 6. Collaboration. It is not a solo activity. Programing is like team sport with your colleagues. Others may have some solutions for my problems.
+7. Write a code is a solo activity. So programming may be a lonely activity. Spend lot of time lonely, read documentation, debbuging or write code without socialization, just focus on goal.
